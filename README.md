@@ -1,0 +1,1 @@
+Sheep is a super useful amount of untilitys and some mor in one package so you can, download, dig the dns, ping (you could just go in your browser and check that :P), search, do everything you can do with curl,
